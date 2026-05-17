@@ -21,7 +21,7 @@ spec:
       containers:
       - name: portfolio-app
 
-        image: akd2025/portfolio:latest
+        image: akd2025/portfolio:1d174f81c94ded9a0f4f2ea661c359a6b14ec06d
 
         imagePullPolicy: Always
 
